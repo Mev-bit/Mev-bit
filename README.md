@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+
+[![Mev's github stats](https://github-readme-stats.vercel.app/api?username=Mev-bit&count_private=true&show_icons=true)](https://github.com/Mev-bit/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mev-bit&layout=compact)](https://github.com/Mev-bi/github-readme-stats)
+
 <!--
-**Mev-bit/Mev-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mev/Mev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
